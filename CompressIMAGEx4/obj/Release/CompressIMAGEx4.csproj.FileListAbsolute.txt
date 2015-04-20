@@ -1,0 +1,9 @@
+C:\Users\just1_000\Documents\Visual Studio 2013\Projects\CompressIMAGEx4\CompressIMAGEx4\bin\Release\CompressBMPx4.exe.config
+C:\Users\just1_000\Documents\Visual Studio 2013\Projects\CompressIMAGEx4\CompressIMAGEx4\bin\Release\CompressBMPx4.exe
+C:\Users\just1_000\Documents\Visual Studio 2013\Projects\CompressIMAGEx4\CompressIMAGEx4\bin\Release\CompressBMPx4.pdb
+C:\Users\just1_000\Documents\Visual Studio 2013\Projects\CompressIMAGEx4\CompressIMAGEx4\obj\Release\CompressIMAGEx4.csprojResolveAssemblyReference.cache
+C:\Users\just1_000\Documents\Visual Studio 2013\Projects\CompressIMAGEx4\CompressIMAGEx4\obj\Release\CompressBMPx4.MainForm.resources
+C:\Users\just1_000\Documents\Visual Studio 2013\Projects\CompressIMAGEx4\CompressIMAGEx4\obj\Release\CompressBMPx4.Properties.Resources.resources
+C:\Users\just1_000\Documents\Visual Studio 2013\Projects\CompressIMAGEx4\CompressIMAGEx4\obj\Release\CompressIMAGEx4.csproj.GenerateResource.Cache
+C:\Users\just1_000\Documents\Visual Studio 2013\Projects\CompressIMAGEx4\CompressIMAGEx4\obj\Release\CompressBMPx4.exe
+C:\Users\just1_000\Documents\Visual Studio 2013\Projects\CompressIMAGEx4\CompressIMAGEx4\obj\Release\CompressBMPx4.pdb

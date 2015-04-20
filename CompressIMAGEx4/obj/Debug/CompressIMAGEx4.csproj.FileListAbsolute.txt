@@ -1,0 +1,8 @@
+c:\users\just1_000\documents\visual studio 2013\Projects\CompressBMPx4\CompressBMPx4\bin\Debug\CompressBMPx4.exe.config
+c:\users\just1_000\documents\visual studio 2013\Projects\CompressBMPx4\CompressBMPx4\bin\Debug\CompressBMPx4.exe
+c:\users\just1_000\documents\visual studio 2013\Projects\CompressBMPx4\CompressBMPx4\bin\Debug\CompressBMPx4.pdb
+c:\users\just1_000\documents\visual studio 2013\Projects\CompressBMPx4\CompressBMPx4\obj\Debug\CompressBMPx4.MainForm.resources
+c:\users\just1_000\documents\visual studio 2013\Projects\CompressBMPx4\CompressBMPx4\obj\Debug\CompressBMPx4.Properties.Resources.resources
+c:\users\just1_000\documents\visual studio 2013\Projects\CompressBMPx4\CompressBMPx4\obj\Debug\CompressIMAGEx4.csproj.GenerateResource.Cache
+c:\users\just1_000\documents\visual studio 2013\Projects\CompressBMPx4\CompressBMPx4\obj\Debug\CompressBMPx4.exe
+c:\users\just1_000\documents\visual studio 2013\Projects\CompressBMPx4\CompressBMPx4\obj\Debug\CompressBMPx4.pdb
